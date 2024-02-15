@@ -3,7 +3,7 @@ Two layer model of the tear film. LL is represented as LC with weak elasticity; 
 These files were used for the La Matematica submission. 
 
 The Mathematica scripts contain the equations at each order of epsilon using the asymptotic expansions of the dependent variables.
-    * [expansions](twolayer_expansions.nb)  
+    * [expansions](twolayer_expansions.nb)  <br>
     * [order one](twolayer_order1.nb)  
     * [order epsilon](twolayer_orderepsilon.nb)  
     * [order epsilon squared](twolayer_orderepsilonsquared.nb)  
